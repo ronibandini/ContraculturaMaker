@@ -1,5 +1,5 @@
 # ContraculturaMaker
-Versión 0.1 del Libro Contracultura Maker de Roni Bandini
+Versión 0.1 del Libro Contracultura Maker de Roni Bandini 📖
 
 # Indice
 Introduccion 5
