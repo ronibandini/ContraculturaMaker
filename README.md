@@ -128,6 +128,3 @@ Lectura online desde https://www.scribd.com/document/807268510/Contracultura-Mak
 | Biblio | 78 |
 | Índice | 80 |
 
-Versión 0.1 del Libro Contracultura Maker de Roni Bandini 📖
-
-![Libro Contracultura Maker](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*OSlTZIfKoNH71xotc1VmHA.png)
