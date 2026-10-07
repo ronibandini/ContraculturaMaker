@@ -1,4 +1,5 @@
-<img width="680" height="1038" alt="PortadaContraculturaMaker2" src="https://github.com/user-attachments/assets/b7bdba10-acb9-4edb-9196-26338d194395" />
+<img width="600" height="903" alt="PortadaContraculturaMakerSm" src="https://github.com/user-attachments/assets/264802a3-d946-4a7e-904c-ab66b46dc6ba" />
+
 
 # Contracultura Maker
 
