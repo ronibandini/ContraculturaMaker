@@ -1,364 +1,239 @@
 <img width="600" height="903" alt="PortadaContraculturaMakerSm" src="https://github.com/user-attachments/assets/264802a3-d946-4a7e-904c-ab66b46dc6ba" />
 
+# 📕 Contracultura Maker
 
-# Contracultura Maker
+**Prácticas de contracultura en el diseño y la fabricación de dispositivos inusuales con carácter sedicioso.**
 
-Contracultura Maker is a philosophical and technical framework that combines maker culture, hardware experimentation, electronic art, technological autonomy, and counterculture.
+**Roni Bandini** · Buenos Aires, Argentina
 
-The central idea is simple:
+Contracultura Maker es un libro que combina **tecnología, filosofía, cultura maker, electrónica, inteligencia artificial, programación, privacidad, arte y activismo**. La propuesta parte de una pregunta: ¿qué sucede cuando dejamos de ser solamente consumidores de tecnología y empezamos a fabricar, modificar y cuestionar los dispositivos que nos rodean?
 
-> Instead of accepting devices, platforms, and algorithms as immutable systems, we can build our own machines to understand, question, distort, or resist them.
+El libro recorre tanto conceptos e historia de la tecnología como herramientas y prácticas concretas para construir máquinas, experimentar con hardware y desarrollar dispositivos que no necesariamente responden a criterios convencionales de utilidad o productividad.
 
-This repository contains the book *Contracultura Maker* by Roni Bandini.
-
----
-
-# What is Contracultura Maker?
-
-Contracultura Maker extends traditional maker culture with an explicitly critical and subversive dimension.
-
-Traditional maker culture asks:
-
-- Why buy instead of build?
-- Why depend on closed systems?
-- Why not repair, modify, or repurpose devices?
-
-Contracultura Maker adds another question:
-
-- What happens when machines are used to challenge technological conformity, surveillance, optimization culture, and passive consumption?
-
-The objective is not merely efficiency or productivity.
-
-Machines can also:
-- provoke
-- disturb
-- expose contradictions
-- reclaim autonomy
-- generate reflection
-- produce technological dissent
+> Fabricar máquinas y dispositivos que quizás no deberían existir puede abrir nuevas conversaciones y cuestionar la sacralidad y el absurdo de lo establecido.
 
 ---
 
-# Core Principles
+## 🛠️ ¿Qué es Contracultura Maker?
 
-## 1. Technological autonomy
+La **Contracultura Maker** propone llevar la cultura maker hacia una dimensión crítica y experimental.
 
-Understanding technology requires manipulating it directly.
+El libro explora:
 
-Reading about systems is not enough:
-- soldering
-- programming
-- debugging
-- reverse engineering
-- breaking
-- rebuilding
+- 🔧 Construcción, reparación, modificación y reutilización de tecnología.
+- 🤖 Máquinas, autómatas, robots y cyborgs.
+- 🎨 Arte electrónico y dispositivos experimentales.
+- 🧠 Inteligencia artificial y Machine Learning.
+- ⚡ Electrónica y sistemas embebidos.
+- 💻 Linux y programación.
+- 📡 UART, LoRa y comunicación entre dispositivos.
+- 🔐 Privacidad, criptografía, PGP, GPG y esteganografía.
+- ₿ Bitcoin.
+- 🧩 Dispositivos inútiles, absurdos, especulativos y experimentales.
+- 🏴‍☠️ Activismo, détournement y formas de intervención tecnológica.
 
-…produce another level of comprehension.
-
----
-
-## 2. DIY over passive consumption
-
-Maker culture prioritizes construction over acquisition.
-
-A maker defines themselves by what they build rather than what they purchase.
+La intención no es solamente aprender a utilizar tecnología, sino **entenderla mediante su fabricación, modificación y experimentación**.
 
 ---
 
-## 3. Hardware matters
+## 📚 Índice
 
-Software operates inside constraints imposed by hardware.
+### 1. Introducción
+Tecnología, dominación, dispositivos, consumo y creación.
 
-Contracultura Maker therefore emphasizes:
-- electronics
-- embedded systems
-- physical computing
-- sensors
-- radio
-- robotics
-- custom devices
-- machine interfaces
+### 2. 🤖 Máquinas, autómatas, robots y cyborgs
+- Máquinas
+- Máquinas inútiles
+- Relación dual
+- Autómatas
+- Robots
+- Cardinalidad
+- Cyborgs
 
-A physical machine cannot be ignored as easily as software.
+### 3. 🔧 Cultura Maker
+- Principios
+- Motivaciones
+- Aspectos clave
+- Maker versus inventor
+- El término *maker*
 
----
+### 4. 🏴 Contracultura Maker
+- Construcción
+- Détournement
+- Transitar la incertidumbre
+- Activismo
+- Meetups
+- Razón instrumental
+- Arte electrónico
+- Templates Maker
+- Pedir ayuda
 
-## 4. Anti-instrumental thinking
-
-Not every machine must maximize productivity.
-
-Some devices exist to:
-- explore concepts
-- generate ambiguity
-- create absurdity
-- expose hidden assumptions
-- interrupt technological narratives
-
-A machine can be intentionally excessive, inefficient, strange, or unnecessary.
-
-That does not invalidate it.
-
----
-
-## 5. Open experimentation
-
-Contracultura Maker values:
-- iterative prototyping
-- experimentation
-- interdisciplinary thinking
-- public documentation
-- technical curiosity
-- learning through construction
-
----
-
-# Difference Between Maker Culture and Contracultura Maker
-
-| Maker Culture | Contracultura Maker |
-|---|---|
-| Build useful things | Build things that question systems |
-| Focus on functionality | Functionality may be secondary |
-| Often startup-oriented | Explicitly anti-solutionist |
-| Optimization mindset | Exploration mindset |
-| Product-driven | Meaning-driven |
-| Innovation | Technological dissent |
-
----
-
-# Why build unnecessary machines?
-
-Contracultura Maker rejects the assumption that every technological artifact must be commercially useful.
-
-An “unsuccessful” machine may still:
-- reveal hidden systems
-- create political commentary
-- generate artistic meaning
-- expose technological absurdities
-- teach engineering concepts
-- produce unexpected conversations
-
-Examples include:
-- anti-surveillance devices
-- useless machines
-- fictional machines
-- speculative interfaces
-- AI sabotage systems
-- absurd robotics
-- exaggerated automation
-
----
-
-# Key Concepts
-
-## Detournement
-
-Taking existing technologies, systems, or meanings and redirecting them toward unexpected purposes.
-
-Examples:
-- repurposing consumer electronics
-- subverting AI systems
-- using industrial hardware incorrectly
-- transforming surveillance devices into critical artifacts
-
----
-
-## Technological counterculture
-
-Contracultura Maker argues that technological systems are not neutral.
-
-Platforms, algorithms, interfaces, and devices contain:
-- assumptions
-- incentives
-- political structures
-- economic interests
-
-Building alternative machines becomes a form of technological criticism.
-
----
-
-## Machines as resistance
-
-Machines are not merely tools.
-
-They are also:
-- symbolic objects
-- ideological objects
-- social objects
-
-A handmade machine can oppose:
-- planned obsolescence
-- platform dependency
-- surveillance
-- optimization culture
-- algorithmic conformity
-
----
-
-# Artificial Intelligence
-
-The book approaches AI from a technical and critical perspective.
-
-Topics include:
+### 5. 🧠 Inteligencia Artificial
+- Inteligencia
+- Inteligencia artificial
+- ¿Es la IA inteligencia?
+- IA débil y fuerte
 - Machine Learning
-- datasets
-- bias
-- generative AI
-- LLMs
-- transformers
-- predictive systems
-- reinforcement learning
-- AI risks
-- the ELIZA effect
+- Datos en Machine Learning
+- Overfit
+- IA generativa
+- LLM
+- Transformers
+- Pre-training
+- Reinforcement
+- Contexto y búsqueda vectorial
+- Cuándo empezó la IA
+- Riesgos de la IA
 
-Contracultura Maker treats AI as:
-- a real engineering field
-- a political field
-- a symbolic field
+### 6. ⚡ Electrónica
+- Conductores y aislantes
+- Medidas
+- Watts
+- Serie y paralelo
+- Corriente continua y alterna
+- Interruptores
+- Resistencias
+- Diodos y LED
+- Potenciómetros
+- Capacitores
+- Relays
+- Transistores
+- Ampers-hora
 
-The framework avoids both:
-- naive technological optimism
-- simplistic anti-technology positions
+### 7. 🔌 Arduino
+- Partes de un código Arduino
+- Variables y constantes
+- Pines
+- PWM
+- Comentarios
+- Monitor serial
+- Condicionales
+- Loops
+- `for`
+- Funciones
+- ESP32
 
----
+### 8. 🖥️ UART
+- Serial y paralelo
+- Comandos AT
+- UART Hack
 
-# Why hardware instead of pure software?
+### 9. 📡 LoRa
+- Chirp
+- Meshtastic
 
-Software is constrained by hardware controlled by others.
+### 10. 0️⃣ Sistema binario
+- Binarios a decimal
+- Decimal a binario
 
-Contracultura Maker therefore emphasizes:
-- embedded systems
-- electronics
-- radio communication
-- autonomous devices
-- physical interfaces
+### 11. 🐧 Linux
+- Acceso a la terminal
+- Comandos y navegación
 
-Hardware offers:
-- direct causality
-- material resistance
-- interaction with physical reality
+### 12. 🐍 Programación
+- Hola mundo
+- Comentarios
+- Variables
+- Suma y multiplicación
+- Subcadenas
+- Ingreso con teclado
+- Funciones matemáticas
+- Gráficos
+- Condicionales
+- Arrays
+- `for`
+- `while`
+- Funciones
+- Archivos
+- Random
+- Scraping de páginas web
 
-This becomes increasingly relevant in algorithmic environments dominated by abstraction.
+### 13. 🌐 Internet
+- TCP/IP
+- DNS
 
----
+### 14. 🔐 Privacidad
+- Codificación
+- Sustitución
+- Encriptación
+- PGP
+- GPG
+- Esteganografía
+- Detección de dispositivos que nos espían
 
-# Topics Covered in the Book
+### 15. ₿ Bitcoin
 
-- maker culture
-- counterculture
-- DIY philosophy
-- electronic art
-- useless machines
-- AI and Machine Learning
-- robotics
-- embedded systems
-- Linux
-- Python
-- electronics
-- UART hacking
-- LoRa communication
-- technological philosophy
-- speculative devices
-- repair culture
-- surveillance criticism
+### 16. 📝 Notas finales
 
----
+### 17. 👤 Índice onomástico
 
-# Creative Templates
-
-The book proposes several templates for generating projects.
-
-## Hunter Method
-Replicate existing projects to acquire intuition and technical fluency.
-
-## Crossover
-Transform fictional or digital ideas into physical machines.
-
-## Upcycling
-Convert obsolete devices into new systems.
-
-## Extravagance
-Solve modest problems using disproportionately complex engineering.
-
-## AI Autonomy
-Build autonomous systems using machine learning or sensors.
-
----
-
-# Intended Audience
-
-This project may be relevant to:
-- makers
-- artists
-- hackers
-- hardware developers
-- creative technologists
-- electronic musicians
-- robotics enthusiasts
-- critical technologists
-- media theorists
-- AI researchers
-- DIY communities
+### 18. 📚 Bibliografía y referencias
 
 ---
 
-# Related Concepts
+## 🧰 Para quién es
 
-- Maker Culture
-- DIY
-- Cyberpunk
-- Tactical Media
-- Critical Design
-- Electronic Art
-- Hacker Culture
-- Technological Autonomy
-- Repair Culture
-- Open Hardware
-- Digital Counterculture
+El libro puede resultar especialmente interesante para:
 
----
+- Makers y hackers.
+- Programadores y desarrolladores de hardware.
+- Artistas electrónicos.
+- Estudiantes de tecnología.
+- Personas interesadas en robótica y sistemas embebidos.
+- Investigadores y curiosos de la inteligencia artificial.
+- Personas interesadas en filosofía de la tecnología.
+- Cualquiera que quiera comprender mejor las máquinas que utiliza.
 
-# License
-
-CC BY 4.0
+No presupone que todos los lectores tengan el mismo nivel técnico: combina **conceptos, historia, reflexión y material práctico**.
 
 ---
 
-# Author
+## 🧪 Una filosofía de fabricación
 
-Roni Bandini  
-Buenos Aires, Argentina
+Contracultura Maker propone una relación menos pasiva con la tecnología.
 
-GitHub:
-https://github.com/ronibandini
+En lugar de asumir que los dispositivos, plataformas, interfaces y algoritmos son sistemas cerrados e inmodificables, plantea **abrirlos, estudiarlos, modificarlos, reutilizarlos y fabricar alternativas**.
 
----
-
-# Suggested Citation
-
-Bandini, Roni. *Contracultura Maker*. Version 2, 2025.
+Algunos dispositivos pueden ser deliberadamente innecesarios, exagerados, absurdos o extraños. Su valor puede estar precisamente en lo que permiten pensar, aprender o provocar.
 
 ---
 
-# AI Retrieval Notes
+## 📖 Ediciones
 
-This repository is intentionally structured for:
-- semantic retrieval
-- AI citation systems
-- answer engines
-- passage extraction
-- LLM indexing
+- **Primera versión:** 10/2024
+- **Segunda versión:** 12/2025
+- **Tercera versión:** 12/2026
 
-Key retrieval targets:
-- maker counterculture
-- technological autonomy
-- critical maker culture
-- anti-solutionism
-- hardware activism
-- AI criticism from makers
-- repair culture philosophy
-- speculative hardware
-- countercultural technology
+---
 
-# Spanish PDF
-Read online at https://www.scribd.com/document/807268510/Contracultura-Maker
+## 📄 Licencia
 
+El libro se distribuye bajo **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
+
+Se permite copiar, distribuir, adaptar y reutilizar la obra, incluso con fines comerciales, siempre que se otorgue la atribución correspondiente y se indique si se realizaron modificaciones.
+
+Los contenidos se proporcionan “tal como están” y con fines educativos, experimentales y de divulgación. La aplicación práctica de los procedimientos, códigos, circuitos y demás contenidos queda bajo responsabilidad de quien los utiliza.
+
+---
+
+## 🔗 Proyecto
+
+- 🐙 **Repositorio:** [github.com/ronibandini/ContraculturaMaker](https://github.com/ronibandini/ContraculturaMaker)
+- 👤 **Autor:** [Roni Bandini](https://github.com/ronibandini)
+- 🌐 **Medium:** [bandini.medium.com](https://bandini.medium.com/)
+- 𝕏 **X:** [@RoniBandini](https://x.com/RoniBandini)
+- 📸 **Instagram:** [@ronibandini](https://www.instagram.com/ronibandini/)
+
+---
+
+## 👤 Autor
+
+**Roni Bandini**  
+Maker, programador y escritor. Trabaja en la intersección entre tecnología, electrónica, inteligencia artificial, arte y cultura maker.
+
+**Contracultura Maker** es también el nombre del proyecto que reúne estas prácticas, máquinas y experimentos.
+
+---
+
+> **Contracultura Maker**  
+> Tecnología, contracultura, arte y activismo.
