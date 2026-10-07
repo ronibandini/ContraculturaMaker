@@ -10,6 +10,8 @@ Contracultura Maker es un libro que combina **tecnología, filosofía, cultura m
 
 El libro recorre tanto conceptos e historia de la tecnología como herramientas y prácticas concretas para construir máquinas, experimentar con hardware y desarrollar dispositivos que no necesariamente responden a criterios convencionales de utilidad o productividad.
 
+Link para descargar el libro en formato PDF https://github.com/ronibandini/ContraculturaMaker/blob/main/ContraculturaMakerV3.pdf
+
 > Fabricar máquinas y dispositivos que quizás no deberían existir puede abrir nuevas conversaciones y cuestionar la sacralidad y el absurdo de lo establecido.
 
 ---
