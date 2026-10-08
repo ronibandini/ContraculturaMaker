@@ -1,241 +1,329 @@
-<img width="600" height="903" alt="PortadaContraculturaMakerSm" src="https://github.com/user-attachments/assets/264802a3-d946-4a7e-904c-ab66b46dc6ba" />
+# 📕 Maker (Counter)Culture
 
-# 📕 Contracultura Maker
+### Contracultura Maker / Maker (Counter)Culture
 
-**Prácticas de contracultura en el diseño y la fabricación de dispositivos inusuales con carácter sedicioso.**
+**Roni Bandini · Buenos Aires, Argentina**
 
-**Roni Bandini** · Buenos Aires, Argentina
+Contracultura Maker is a book about technology, counterculture, electronics, artificial intelligence, programming, privacy, art and activism.
 
-Contracultura Maker es un libro que combina **tecnología, filosofía, cultura maker, electrónica, inteligencia artificial, programación, privacidad, arte y activismo**. La propuesta parte de una pregunta: ¿qué sucede cuando dejamos de ser solamente consumidores de tecnología y empezamos a fabricar, modificar y cuestionar los dispositivos que nos rodean?
+It explores what happens when we stop being passive consumers of technology and start building, modifying and questioning the devices that surround us.
 
-El libro recorre tanto conceptos e historia de la tecnología como herramientas y prácticas concretas para construir máquinas, experimentar con hardware y desarrollar dispositivos que no necesariamente responden a criterios convencionales de utilidad o productividad.
-
-Link para descargar el libro en formato PDF https://github.com/ronibandini/ContraculturaMaker/blob/main/ContraculturaMakerV3.pdf
-
-> Fabricar máquinas y dispositivos que quizás no deberían existir puede abrir nuevas conversaciones y cuestionar la sacralidad y el absurdo de lo establecido.
+> What happens when we move from users and consumers to creators?
 
 ---
 
-## 🛠️ ¿Qué es Contracultura Maker?
+## 📚 Read the Book
 
-La **Contracultura Maker** propone llevar la cultura maker hacia una dimensión crítica y experimental.
+The book is available in **Spanish** and **English**.
 
-El libro explora:
+### 🇪🇸 Spanish
 
-- 🔧 Construcción, reparación, modificación y reutilización de tecnología.
-- 🤖 Máquinas, autómatas, robots y cyborgs.
-- 🎨 Arte electrónico y dispositivos experimentales.
-- 🧠 Inteligencia artificial y Machine Learning.
-- ⚡ Electrónica y sistemas embebidos.
-- 💻 Linux y programación.
-- 📡 UART, LoRa y comunicación entre dispositivos.
-- 🔐 Privacidad, criptografía, PGP, GPG y esteganografía.
-- ₿ Bitcoin.
-- 🧩 Dispositivos inútiles, absurdos, especulativos y experimentales.
-- 🏴‍☠️ Activismo, détournement y formas de intervención tecnológica.
+**Contracultura Maker — Third Version, 2026**
 
-La intención no es solamente aprender a utilizar tecnología, sino **entenderla mediante su fabricación, modificación y experimentación**.
+[📖 Read / download the Spanish PDF](ContraculturaMakerV3.pdf)
+
+### 🇬🇧 English
+
+**Maker (Counter)Culture — Third Edition, 2026**
+
+[📖 Read / download the English PDF](MakerCounterCulture_English.pdf)
+
+[🖼️ English edition cover](MakerCounterCultureBookEnglish.png)
+
+> The original text was written in Spanish. This English version was translated with the assistance of AI and may contain errors or inaccuracies.
 
 ---
 
-## 📚 Índice
+## 🏴 What is Contracultura Maker?
 
-### 1. Introducción
-Tecnología, dominación, dispositivos, consumo y creación.
+Contracultura Maker proposes taking maker culture into a critical and experimental direction.
 
-### 2. 🤖 Máquinas, autómatas, robots y cyborgs
-- Máquinas
-- Máquinas inútiles
-- Relación dual
-- Autómatas
+Maker culture is usually associated with building, repairing, modifying and reusing technology. Contracultura Maker adds another dimension: using technology to question technology itself.
+
+The book explores the relationship between:
+
+- 🔧 Making, repairing, modifying and reusing technology
+- 🤖 Machines, automata, robots and cyborgs
+- 🎨 Electronic art and experimental devices
+- 🧠 Artificial Intelligence and Machine Learning
+- ⚡ Electronics and embedded systems
+- 💻 Linux and programming
+- 📡 UART, LoRa and device communication
+- 🔐 Privacy, cryptography, PGP, GPG and steganography
+- ₿ Bitcoin
+- 🧩 Useless, absurd, speculative and experimental devices
+- 🏴‍☠️ Activism, détournement and technological intervention
+
+The objective is not simply to learn how to use technology, but to understand it through fabrication, modification and experimentation.
+
+---
+
+## 🧠 Learning by Making
+
+Contracultura Maker embraces **Active Learning**: learning through practice rather than waiting until all the theory is understood before beginning.
+
+Building something involves experimentation, debugging, failure, documentation and reflection.
+
+The learning process can be confusing and uncomfortable. There is a liminal space between not knowing and understanding where frustration, uncertainty and partial knowledge are unavoidable.
+
+The goal is not to eliminate this discomfort, but to learn how to inhabit it until the problem gradually becomes clearer.
+
+Theory remains important, but it can emerge from the problems encountered during practice.
+
+---
+
+## ⚙️ A Different Relationship with Technology
+
+Contracultura Maker proposes a less passive relationship with technology.
+
+Instead of assuming that devices, platforms, interfaces and algorithms are closed and immutable systems, it proposes opening them, studying them, modifying them, reusing them and building alternatives.
+
+Some devices can be deliberately unnecessary, excessive, absurd or strange.
+
+Their value can lie precisely in what they allow us to think, question, learn or provoke.
+
+> Building machines that perhaps should not exist can open new conversations and challenge the sacredness and absurdity of what has been established.
+
+---
+
+## 🤖 Technology, Machines and AI
+
+The book moves between historical, philosophical and practical perspectives.
+
+It examines machines, automata, robots and cyborgs; maker culture and counterculture; artificial intelligence and machine learning; electronics, Arduino, ESP32 and embedded systems; Linux and programming; communications technologies; privacy and cryptography.
+
+It also explores the relationship between technology and autonomy: who designs the systems we use, what assumptions they contain, and what happens when we start modifying them ourselves.
+
+---
+
+## 📖 Contents
+
+### 1. Introduction
+
+Technology, domination, devices, consumption and creation.
+
+### 2. 🤖 Machines, Automata, Robots and Cyborgs
+
+- Machines
+- Useless machines
+- Dual relationship
+- Automata
 - Robots
-- Cardinalidad
+- Cardinality
 - Cyborgs
 
-### 3. 🔧 Cultura Maker
-- Principios
-- Motivaciones
-- Aspectos clave
+### 3. 🔧 Maker Culture
+
+- Principles
+- Motivations
+- Key aspects
 - Maker versus inventor
-- El término *maker*
+- The term maker
 
 ### 4. 🏴 Contracultura Maker
-- Construcción
-- Détournement
-- Transitar la incertidumbre
-- Activismo
-- Meetups
-- Razón instrumental
-- Arte electrónico
-- Templates Maker
-- Pedir ayuda
 
-### 5. 🧠 Inteligencia Artificial
-- Inteligencia
-- Inteligencia artificial
-- ¿Es la IA inteligencia?
-- IA débil y fuerte
+- Construction
+- Détournement
+- Navigating uncertainty
+- Activism
+- Meetups
+- Instrumental reason
+- Electronic art
+- Maker templates
+- Asking for help
+
+### 5. 🧠 Artificial Intelligence
+
+- Intelligence
+- Artificial Intelligence
+- Is AI intelligence?
+- Weak and strong AI
 - Machine Learning
-- Datos en Machine Learning
-- Overfit
-- IA generativa
-- LLM
+- Data in Machine Learning
+- Overfitting
+- Generative AI
+- LLMs
 - Transformers
 - Pre-training
-- Reinforcement
-- Contexto y búsqueda vectorial
-- Cuándo empezó la IA
-- Riesgos de la IA
+- Reinforcement Learning
+- Context and vector search
+- When AI began
+- AI risks
 
-### 6. ⚡ Electrónica
-- Conductores y aislantes
-- Medidas
+### 6. ⚡ Electronics
+
+- Conductors and insulators
+- Measurements
 - Watts
-- Serie y paralelo
-- Corriente continua y alterna
-- Interruptores
-- Resistencias
-- Diodos y LED
-- Potenciómetros
-- Capacitores
+- Series and parallel
+- Direct and alternating current
+- Switches
+- Resistors
+- Diodes and LEDs
+- Potentiometers
+- Capacitors
 - Relays
-- Transistores
-- Ampers-hora
+- Transistors
+- Amp-hours
 
 ### 7. 🔌 Arduino
-- Partes de un código Arduino
-- Variables y constantes
-- Pines
+
+- Parts of an Arduino program
+- Variables and constants
+- Pins
 - PWM
-- Comentarios
-- Monitor serial
-- Condicionales
+- Comments
+- Serial Monitor
+- Conditionals
 - Loops
 - `for`
-- Funciones
+- Functions
 - ESP32
 
 ### 8. 🖥️ UART
-- Serial y paralelo
-- Comandos AT
-- UART Hack
+
+- Serial and parallel communication
+- AT commands
+- UART hacking
 
 ### 9. 📡 LoRa
+
 - Chirp
 - Meshtastic
 
-### 10. 0️⃣ Sistema binario
-- Binarios a decimal
-- Decimal a binario
+### 10. 0️⃣ Binary
+
+- Binary to decimal
+- Decimal to binary
 
 ### 11. 🐧 Linux
-- Acceso a la terminal
-- Comandos y navegación
 
-### 12. 🐍 Programación
-- Hola mundo
-- Comentarios
+- Terminal access
+- Commands and navigation
+
+### 12. 🐍 Programming
+
+- Hello World
+- Comments
 - Variables
-- Suma y multiplicación
-- Subcadenas
-- Ingreso con teclado
-- Funciones matemáticas
-- Gráficos
-- Condicionales
+- Addition and multiplication
+- Substrings
+- Keyboard input
+- Mathematical functions
+- Graphics
+- Conditionals
 - Arrays
 - `for`
 - `while`
-- Funciones
-- Archivos
+- Functions
+- Files
 - Random
-- Scraping de páginas web
+- Web scraping
 
 ### 13. 🌐 Internet
+
 - TCP/IP
 - DNS
 
-### 14. 🔐 Privacidad
-- Codificación
-- Sustitución
-- Encriptación
+### 14. 🔐 Privacy
+
+- Encoding
+- Substitution
+- Encryption
 - PGP
 - GPG
-- Esteganografía
-- Detección de dispositivos que nos espían
+- Steganography
+- Detecting devices that spy on us
 
 ### 15. ₿ Bitcoin
 
-### 16. 📝 Notas finales
+### 16. 📝 Final Notes
 
-### 17. 👤 Índice onomástico
+### 17. 👤 Name Index
 
-### 18. 📚 Bibliografía y referencias
-
----
-
-## 🧰 Para quién es
-
-El libro puede resultar especialmente interesante para:
-
-- Makers y hackers.
-- Programadores y desarrolladores de hardware.
-- Artistas electrónicos.
-- Estudiantes de tecnología.
-- Personas interesadas en robótica y sistemas embebidos.
-- Investigadores y curiosos de la inteligencia artificial.
-- Personas interesadas en filosofía de la tecnología.
-- Cualquiera que quiera comprender mejor las máquinas que utiliza.
-
-No presupone que todos los lectores tengan el mismo nivel técnico: combina **conceptos, historia, reflexión y material práctico**.
+### 18. 📚 Bibliography and References
 
 ---
 
-## 🧪 Una filosofía de fabricación
+## 🧰 Who Is This Book For?
 
-Contracultura Maker propone una relación menos pasiva con la tecnología.
+The book is intended for:
 
-En lugar de asumir que los dispositivos, plataformas, interfaces y algoritmos son sistemas cerrados e inmodificables, plantea **abrirlos, estudiarlos, modificarlos, reutilizarlos y fabricar alternativas**.
+- Makers and hackers
+- Programmers and hardware developers
+- Electronic artists
+- Technology students
+- People interested in robotics and embedded systems
+- People interested in artificial intelligence
+- People interested in philosophy of technology
+- Anyone who wants to better understand the machines they use
 
-Algunos dispositivos pueden ser deliberadamente innecesarios, exagerados, absurdos o extraños. Su valor puede estar precisamente en lo que permiten pensar, aprender o provocar.
-
----
-
-## 📖 Ediciones
-
-- **Primera versión:** 10/2024
-- **Segunda versión:** 12/2025
-- **Tercera versión:** 12/2026
-
----
-
-## 📄 Licencia
-
-El libro se distribuye bajo **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
-
-Se permite copiar, distribuir, adaptar y reutilizar la obra, incluso con fines comerciales, siempre que se otorgue la atribución correspondiente y se indique si se realizaron modificaciones.
-
-Los contenidos se proporcionan “tal como están” y con fines educativos, experimentales y de divulgación. La aplicación práctica de los procedimientos, códigos, circuitos y demás contenidos queda bajo responsabilidad de quien los utiliza.
+It does not assume a single technical level. It combines concepts, history, reflection and practical material.
 
 ---
 
-## 🔗 Proyecto
+## 📚 Editions
 
-- 🐙 **Repositorio:** [github.com/ronibandini/ContraculturaMaker](https://github.com/ronibandini/ContraculturaMaker)
-- 👤 **Autor:** [Roni Bandini](https://github.com/ronibandini)
-- 🌐 **Medium:** [bandini.medium.com](https://bandini.medium.com/)
-- 𝕏 **X:** [@RoniBandini](https://x.com/RoniBandini)
-- 📸 **Instagram:** [@ronibandini](https://www.instagram.com/ronibandini/)
+### Spanish
 
----
+- First version — October 2024
+- Second version — December 2025
+- Third version — December 2026
 
-## 👤 Autor
+### English
 
-**Roni Bandini**  
-Maker, programador y escritor. Trabaja en la intersección entre tecnología, electrónica, inteligencia artificial, arte y cultura maker.
-
-**Contracultura Maker** es también el nombre del proyecto que reúne estas prácticas, máquinas y experimentos.
+- Third edition — 2026
+- Translated from the original Spanish edition with AI assistance
 
 ---
 
-> **Contracultura Maker**  
-> Tecnología, contracultura, arte y activismo.
+## 📄 License
+
+This book is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to copy, distribute, adapt and reuse the work, including commercially, provided that appropriate attribution is given and modifications are indicated.
+
+[Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+# 📰 Contracultura Maker in the Media
+
+More information, interviews and articles about Contracultura Maker and related projects:
+
+- [Activismo tecnológico contracultural — El Planteo](https://elplanteo.com/inteligencia-artificial-predice-cortes-de-luz-que-es-edenoff/)
+- [Qué es la Contracultura Maker — Revista RAYA](https://www.revistaraya.com/contracultura-maker-entrevista-con-el-autor-argentino-roni-bandini.html)
+- [El derecho a crear, reparar y reutilizar — YouTube](https://www.youtube.com/watch?v=z9MsdnyDFdI)
+- [El referente de la Contracultura Maker — Radio Buenos Aires](https://www.radiobuenosaires.com.ar/el-referente-de-la-contracultura-maker-y-sus-invenciones-fuera-de-lo-com)
+- [Un hombre crea un aparato para detectar Reggaetón — Time Out](https://www.timeout.es/barcelona/es/noticias/un-hombre-crea-un-aparato-para-detectar-reggaeton-y-apagarlo-y-nos-explica-como-fabricarlo-en-casa-022524)
+- [La historia del excéntrico maker — El Destape](https://www.eldestapeweb.com/sociedad/historias-de-vida/creo-un-furby-con-la-voz-de-borges-y-otras-maquinas-sobre-literatura-2025950548)
+
+These six references are the media links currently listed in the original Medium book page. :chatgpt-content-reference{index="1"}
+
+---
+
+## 🔗 Project
+
+- 🐙 [GitHub Repository](https://github.com/ronibandini/ContraculturaMaker)
+- 🇪🇸 [Spanish PDF](ContraculturaMakerV3.pdf)
+- 🇬🇧 [English PDF](MakerCounterCulture_English.pdf)
+- 🖼️ [English Cover](MakerCounterCultureBookEnglish.png)
+- 🌐 [Medium — Contracultura Maker](https://bandini.medium.com/libro-de-contracultura-maker-94d1bb0d951c)
+
+---
+
+## 👤 Author
+
+**Roni Bandini**
+
+Maker, programmer and writer working at the intersection of technology, electronics, artificial intelligence, art and maker culture.
+
+- [GitHub](https://github.com/ronibandini)
+- [Medium](https://bandini.medium.com/)
+- [X / Twitter](https://x.com/RoniBandini)
+- [Instagram](https://www.instagram.com/ronibandini/)
+
+---
+
+> **Maker (Counter)Culture**  
+> Technology, counterculture, art and activism.
