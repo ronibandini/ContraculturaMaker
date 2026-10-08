@@ -242,23 +242,6 @@ Technology, domination, devices, consumption and creation.
 
 ---
 
-## 🧰 Who Is This Book For?
-
-The book is intended for:
-
-- Makers and hackers
-- Programmers and hardware developers
-- Electronic artists
-- Technology students
-- People interested in robotics and embedded systems
-- People interested in artificial intelligence
-- People interested in philosophy of technology
-- Anyone who wants to better understand the machines they use
-
-It does not assume a single technical level. It combines concepts, history, reflection and practical material.
-
----
-
 ## 📚 Editions
 
 ### Spanish
