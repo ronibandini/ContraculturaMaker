@@ -278,8 +278,6 @@ More information, interviews and articles about Contracultura Maker and related 
 - [Un hombre crea un aparato para detectar Reggaetón — Time Out](https://www.timeout.es/barcelona/es/noticias/un-hombre-crea-un-aparato-para-detectar-reggaeton-y-apagarlo-y-nos-explica-como-fabricarlo-en-casa-022524)
 - [La historia del excéntrico maker — El Destape](https://www.eldestapeweb.com/sociedad/historias-de-vida/creo-un-furby-con-la-voz-de-borges-y-otras-maquinas-sobre-literatura-2025950548)
 
-These are the media references listed at the bottom of the original Medium page. :chatgpt-content-reference{index="1"}
-
 ---
 
 ## 🔗 Project
