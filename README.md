@@ -22,7 +22,6 @@ The book is available in **Spanish** and **English**.
 
 [📖 Read / download the Spanish PDF](ContraculturaMakerV3.pdf)
 
-[🖼️ Spanish edition cover](PortadaContraculturaMakerSm.png)
 
 ### 🇬🇧 English
 
@@ -53,8 +52,6 @@ The book explores the relationship between:
 - ₿ Bitcoin
 - 🧩 Useless, absurd, speculative and experimental devices
 - 🏴‍☠️ Activism, détournement and technological intervention
-
-The objective is not simply to learn how to use technology, but to understand it through fabrication, modification and experimentation.
 
 ---
 
