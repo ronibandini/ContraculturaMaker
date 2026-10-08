@@ -1,6 +1,6 @@
-# 📕 Maker (Counter)Culture
+# 📕 Contracultura Maker / Maker (Counter)Culture
 
-### Contracultura Maker / Maker (Counter)Culture
+**Contracultura Maker / Maker (Counter)Culture**
 
 **Roni Bandini · Buenos Aires, Argentina**
 
@@ -21,8 +21,8 @@ The book is available in **Spanish** and **English**.
 **Contracultura Maker — Third Version, 2026**
 
 [📖 Read / download the Spanish PDF](ContraculturaMakerV3.pdf)
-[🖼️ English edition cover](ContraculturaMakerPortada.png)
 
+[🖼️ Spanish edition cover](PortadaContraculturaMakerSm.png)
 
 ### 🇬🇧 English
 
@@ -30,7 +30,7 @@ The book is available in **Spanish** and **English**.
 
 [📖 Read / download the English PDF](MakerCounterCulture_English.pdf)
 
-[🖼️ English edition cover](MakerCounterCultureBookEnglish.png)
+[![Contracultura Maker — Spanish edition](PortadaContraculturaMakerSm.png)](ContraculturaMakerV3.pdf)
 
 ---
 
@@ -298,17 +298,17 @@ More information, interviews and articles about Contracultura Maker and related 
 - [Un hombre crea un aparato para detectar Reggaetón — Time Out](https://www.timeout.es/barcelona/es/noticias/un-hombre-crea-un-aparato-para-detectar-reggaeton-y-apagarlo-y-nos-explica-como-fabricarlo-en-casa-022524)
 - [La historia del excéntrico maker — El Destape](https://www.eldestapeweb.com/sociedad/historias-de-vida/creo-un-furby-con-la-voz-de-borges-y-otras-maquinas-sobre-literatura-2025950548)
 
-These six references are the media links currently listed in the original Medium book page. :chatgpt-content-reference{index="1"}
+These are the media references listed at the bottom of the original Medium page. :chatgpt-content-reference{index="1"}
 
 ---
 
 ## 🔗 Project
 
-- 🐙 [GitHub Repository](https://github.com/ronibandini/ContraculturaMaker)
-- 🇪🇸 [Spanish PDF](ContraculturaMakerV3.pdf)
-- 🇬🇧 [English PDF](MakerCounterCulture_English.pdf)
-- 🖼️ [English Cover](MakerCounterCultureBookEnglish.png)
-- 🌐 [Medium — Contracultura Maker](https://bandini.medium.com/libro-de-contracultura-maker-94d1bb0d951c)
+- [🐙 GitHub Repository](https://github.com/ronibandini/ContraculturaMaker)
+- [🇪🇸 Spanish PDF](ContraculturaMakerV3.pdf)
+- [🇬🇧 English PDF](MakerCounterCulture_English.pdf)
+- [🖼️ Spanish Cover](PortadaContraculturaMakerSm.png)
+- [🌐 Medium — Contracultura Maker](https://bandini.medium.com/libro-de-contracultura-maker-94d1bb0d951c)
 
 ---
 
