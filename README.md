@@ -21,6 +21,8 @@ The book is available in **Spanish** and **English**.
 **Contracultura Maker — Third Version, 2026**
 
 [📖 Read / download the Spanish PDF](ContraculturaMakerV3.pdf)
+[🖼️ English edition cover](ContraculturaMakerPortada.png)
+
 
 ### 🇬🇧 English
 
@@ -29,8 +31,6 @@ The book is available in **Spanish** and **English**.
 [📖 Read / download the English PDF](MakerCounterCulture_English.pdf)
 
 [🖼️ English edition cover](MakerCounterCultureBookEnglish.png)
-
-> The original text was written in Spanish. This English version was translated with the assistance of AI and may contain errors or inaccuracies.
 
 ---
 
