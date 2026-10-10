@@ -5,10 +5,6 @@ It explores what happens when we stop being passive consumers of technology and 
 
 ---
 
-## 📚 Read the Book
-
-The book is available in **Spanish** and **English**.
-
 ### 🇪🇸 Español
 
 **Contracultura Maker — Tercera Edición, 2026**
