@@ -1,9 +1,5 @@
 # 📕 Contracultura Maker / Maker (Counter)Culture
 
-**Contracultura Maker / Maker (Counter)Culture**
-
-**Roni Bandini · Buenos Aires, Argentina**
-
 Contracultura Maker is a book about technology, counterculture, electronics, artificial intelligence, programming, privacy, art and activism.
 
 It explores what happens when we stop being passive consumers of technology and start building, modifying and questioning the devices that surround us.
@@ -16,11 +12,11 @@ It explores what happens when we stop being passive consumers of technology and 
 
 The book is available in **Spanish** and **English**.
 
-### 🇪🇸 Spanish
+### 🇪🇸 Español
 
-**Contracultura Maker — Third Version, 2026**
+**Contracultura Maker — Tercera Edición, 2026**
 
-[📖 Read / download the Spanish PDF](ContraculturaMakerV3.pdf)
+[📖 Read / descargar el libro PDF en español](ContraculturaMakerV3.pdf)
 
 
 ### 🇬🇧 English
