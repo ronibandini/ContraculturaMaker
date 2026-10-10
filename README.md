@@ -1,10 +1,7 @@
 # 📕 Contracultura Maker / Maker (Counter)Culture
 
 Contracultura Maker is a book about technology, counterculture, electronics, artificial intelligence, programming, privacy, art and activism.
-
 It explores what happens when we stop being passive consumers of technology and start building, modifying and questioning the devices that surround us.
-
-> What happens when we move from users and consumers to creators?
 
 ---
 
@@ -16,7 +13,7 @@ The book is available in **Spanish** and **English**.
 
 **Contracultura Maker — Tercera Edición, 2026**
 
-[📖 Read / descargar el libro PDF en español](ContraculturaMakerV3.pdf)
+[📖 Leer / descargar el libro PDF en español](ContraculturaMakerV3.pdf)
 
 
 ### 🇬🇧 English
