@@ -26,8 +26,6 @@ It explores what happens when we stop being passive consumers of technology and 
 
 Contracultura Maker proposes taking maker culture into a critical and experimental direction.
 
-Maker (Counter)Culture is usually associated with using technology to question technology itself. 
-
 The book explores the relationship between:
 
 - 🔧 Making, repairing, modifying and reusing technology
