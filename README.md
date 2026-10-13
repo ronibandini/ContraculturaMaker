@@ -1,6 +1,6 @@
 # 📕 Contracultura Maker / Maker (Counter)Culture
 
-Contracultura Maker is a book about technology, counterculture, electronics, artificial intelligence, programming, privacy, art and activism.
+Maker (Counter)Culture is a book about technology, electronics, artificial intelligence, programming, privacy, art and activism.
 It explores what happens when we stop being passive consumers of technology and start building, modifying and questioning the devices that surround us.
 
 ---
@@ -22,11 +22,11 @@ It explores what happens when we stop being passive consumers of technology and 
 
 ---
 
-## 🏴 What is Contracultura Maker?
+## 🏴 What is Maker (Counter)Culture?
 
 Contracultura Maker proposes taking maker culture into a critical and experimental direction.
 
-Maker culture is usually associated with building, repairing, modifying and reusing technology. Contracultura Maker adds another dimension: using technology to question technology itself.
+Maker (Counter)Culture is usually associated with using technology to question technology itself. 
 
 The book explores the relationship between:
 
@@ -46,7 +46,7 @@ The book explores the relationship between:
 
 ## 🧠 Learning by Making
 
-Contracultura Maker embraces **Active Learning**: learning through practice rather than waiting until all the theory is understood before beginning.
+Maker (Counter)Culture/Contracultura Maker embraces **Active Learning**: learning through practice rather than waiting until all the theory is understood before beginning.
 
 Building something involves experimentation, debugging, failure, documentation and reflection.
 
@@ -60,7 +60,7 @@ Theory remains important, but it can emerge from the problems encountered during
 
 ## ⚙️ A Different Relationship with Technology
 
-Contracultura Maker proposes a less passive relationship with technology.
+Maker (Counter)Culture/Contracultura Maker proposes a less passive relationship with technology.
 
 Instead of assuming that devices, platforms, interfaces and algorithms are closed and immutable systems, it proposes opening them, studying them, modifying them, reusing them and building alternatives.
 
@@ -246,17 +246,7 @@ Technology, domination, devices, consumption and creation.
 
 ---
 
-## 📄 License
-
-This book is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-
-You are free to copy, distribute, adapt and reuse the work, including commercially, provided that appropriate attribution is given and modifications are indicated.
-
-[Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-# 📰 Contracultura Maker in the Media
+# 📰 Maker (Counter)Culture/Contracultura Maker in the Media
 
 More information, interviews and articles about Contracultura Maker and related projects:
 
@@ -269,15 +259,6 @@ More information, interviews and articles about Contracultura Maker and related 
 
 ---
 
-## 🔗 Project
-
-- [🐙 GitHub Repository](https://github.com/ronibandini/ContraculturaMaker)
-- [🇪🇸 Spanish PDF](ContraculturaMakerV3.pdf)
-- [🇬🇧 English PDF](MakerCounterCulture_English.pdf)
-- [🖼️ Spanish Cover](PortadaContraculturaMakerSm.png)
-- [🌐 Medium — Contracultura Maker](https://bandini.medium.com/libro-de-contracultura-maker-94d1bb0d951c)
-
----
 
 ## 👤 Author
 
